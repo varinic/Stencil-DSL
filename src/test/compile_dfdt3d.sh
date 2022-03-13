@@ -1,0 +1,1 @@
+mpicc -fopenmp -o dfdt3d dfdt3d.c

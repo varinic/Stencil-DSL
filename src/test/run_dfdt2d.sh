@@ -1,0 +1,1 @@
+mpirun -np 1 ./dfdt2d

@@ -1,0 +1,1 @@
+mpicc -Xpreprocessor -fopenmp -lomp -o dfdt2d dfdt2d.c

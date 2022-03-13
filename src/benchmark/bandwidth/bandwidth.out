@@ -1,0 +1,193 @@
+
+ mpi rank: 0
+ total millisecond: 51.80
+ timestep: 100
+ avg millesecond: 0.52, bandwidth(B/s) 506.0729
+
+ mpi rank: 0
+ total millisecond: 51.84
+ timestep: 100
+ avg millesecond: 0.52, bandwidth(B/s) 505.7020
+
+ mpi rank: 0
+ total millisecond: 89.26
+ timestep: 100
+ avg millesecond: 0.89, bandwidth(B/s) 293.6930
+
+ mpi rank: 0
+ total millisecond: 51.82
+ timestep: 100
+ avg millesecond: 0.52, bandwidth(B/s) 505.8286
+
+ mpi rank: 0
+ total millisecond: 79.80
+ timestep: 100
+ avg millesecond: 0.80, bandwidth(B/s) 328.5048
+
+ mpi rank: 0
+ total millisecond: 0.92
+ timestep: 100
+ avg millesecond: 0.01, bandwidth(B/s) 886.1009
+
+ mpi rank: 0
+ total millisecond: 51.79
+ timestep: 100
+ avg millesecond: 0.52, bandwidth(B/s) 506.2007
+
+ mpi rank: 0
+ total millisecond: 85.49
+ timestep: 100
+ avg millesecond: 0.85, bandwidth(B/s) 306.6197
+
+ mpi rank: 0
+ total millisecond: 30.84
+ timestep: 100
+ avg millesecond: 0.31, bandwidth(B/s) 850.1319
+
+ mpi rank: 0
+ total millisecond: 48.95
+ timestep: 100
+ avg millesecond: 0.49, out: bandwidth(B/s) 535.5723
+
+ mpi rank: 0
+ total millisecond: 98.47
+ timestep: 100
+ avg millesecond: 0.98, out: bandwidth(B/s) 266.2286
+
+ mpi rank: 0
+ total millisecond: 0.82
+ timestep: 100
+ avg millesecond: 0.01, out: bandwidth(B/s) 1000.1449
+
+ mpi rank: 0
+ total millisecond: 11.67
+ timestep: 100
+ avg millesecond: 0.12, mpi: bandwidth(B/s) 2246.7694
+
+
+
+
+
+ mpi rank: 0
+ total millisecond: 51.50
+ timestep: 100
+ avg millesecond: 0.52, in: bandwidth(B/s) 508.9869
+
+ mpi rank: 0
+ total millisecond: 85.82
+ timestep: 100
+ avg millesecond: 0.86, in: bandwidth(B/s) 305.4469
+
+ mpi rank: 0
+ total millisecond: 0.95
+ timestep: 100
+ avg millesecond: 0.01, in: bandwidth(B/s) 866.0430
+
+ mpi rank: 0
+ total millisecond: 48.69
+ timestep: 100
+ avg millesecond: 0.49, out: bandwidth(B/s) 538.4486
+
+ mpi rank: 0
+ total millisecond: 102.00
+ timestep: 100
+ avg millesecond: 1.02, out: bandwidth(B/s) 257.0010
+
+ mpi rank: 0
+ total millisecond: 0.95
+ timestep: 100
+ avg millesecond: 0.01, out: bandwidth(B/s) 857.9599
+[vn021251:mpi_rank_0][MPIDI_CH3_Abort] Fatal error in MPI_Irecv:
+Invalid buffer pointer, error stack:
+MPI_Irecv(148): MPI_Irecv(buf=(nil), count=32768, MPI_DOUBLE, src=1, tag=0, MPI_COMM_WORLD, request=0x50002883c0) failed
+MPI_Irecv(118): Null buffer pointer
+: No such file or directory (2)
+[vn021251:mpi_rank_1][MPIDI_CH3_Abort] Fatal error in MPI_Irecv:
+Invalid buffer pointer, error stack:
+MPI_Irecv(148): MPI_Irecv(buf=(nil), count=32768, MPI_DOUBLE, src=0, tag=0, MPI_COMM_WORLD, request=0x50002883c0) failed
+MPI_Irecv(118): Null buffer pointer
+: No such file or directory (2)
+[51931860 ## Sun Nov 29 15:17:58 2020] receive request of kill job(Crtl`C).
+[51931860 ## Sun Nov 29 15:17:58 2020] receive request of kill job(Crtl`C).
+[51931860 ## Sun Nov 29 15:17:59 2020] receive request of kill job(Crtl`C).
+[51931860 ## Sun Nov 29 15:17:59 2020] receive request of kill job(Crtl`C).
+[51931860 ## Sun Nov 29 15:17:59 2020] receive request of kill job(Crtl`C).
+[51931860 ## Sun Nov 29 15:17:59 2020] receive request of kill job(Crtl`C).
+[51931860 ## Sun Nov 29 15:18:00 2020] receive request of kill job(Crtl`C).
+[51931860 ## Sun Nov 29 15:18:00 2020] receive request of kill job(Crtl`C).
+[51931860 ## Sun Nov 29 15:18:00 2020] receive request of kill job(Crtl`C).
+[51931860 ## Sun Nov 29 15:18:00 2020] receive request of kill job(Crtl`C).
+[51931860 ## Sun Nov 29 15:18:00 2020] receive request of kill job(Crtl`C).
+[51931860 ## Sun Nov 29 15:18:01 2020] receive request of kill job(Crtl`C).
+[51931860 ## Sun Nov 29 15:18:01 2020] receive request of kill job(Crtl`C).
+
+ mpi rank: 0
+ total millisecond: 11.67
+ timestep: 100
+ avg millesecond: 0.12, mpi: bandwidth(B/s) 2247.1782
+
+ mpi rank: 0
+ total millisecond: 51.46
+ timestep: 100
+ avg millesecond: 0.51, in: bandwidth(B/s) 509.3726
+
+ mpi rank: 0
+ total millisecond: 85.83
+ timestep: 100
+ avg millesecond: 0.86, in: bandwidth(B/s) 305.4070
+
+ mpi rank: 0
+ total millisecond: 0.95
+ timestep: 100
+ avg millesecond: 0.01, in: bandwidth(B/s) 861.8873
+
+ mpi rank: 0
+ total millisecond: 48.83
+ timestep: 100
+ avg millesecond: 0.49, out: bandwidth(B/s) 536.8332
+
+ mpi rank: 0
+ total millisecond: 102.01
+ timestep: 100
+ avg millesecond: 1.02, out: bandwidth(B/s) 256.9829
+
+ mpi rank: 0
+ total millisecond: 0.96
+ timestep: 100
+ avg millesecond: 0.01, out: bandwidth(B/s) 855.9362
+
+
+ mpi rank: 0
+ total millisecond: 51.50
+ timestep: 100
+ avg millesecond: 0.51, in: bandwidth(B/s) 509044590.0232
+
+ mpi rank: 0
+ total millisecond: 85.72
+ timestep: 100
+ avg millesecond: 0.86, in: bandwidth(B/s) 305813733.4089
+
+ mpi rank: 0
+ total millisecond: 0.95
+ timestep: 100
+ avg millesecond: 0.01, in: bandwidth(B/s) 864294330.7896
+
+ mpi rank: 0
+ total millisecond: 48.71
+ timestep: 100
+ avg millesecond: 0.49, out: bandwidth(B/s) 538201936.2287
+
+ mpi rank: 0
+ total millisecond: 102.03
+ timestep: 100
+ avg millesecond: 1.02, out: bandwidth(B/s) 256921718.8901
+
+ mpi rank: 0
+ total millisecond: 0.96
+ timestep: 100
+ avg millesecond: 0.01, out: bandwidth(B/s) 854365679.8650
+
+ mpi rank: 0
+ total millisecond: 11.69
+ timestep: 100
+ avg millesecond: 0.12, mpi: bandwidth(B/s) 2243147165.1050
